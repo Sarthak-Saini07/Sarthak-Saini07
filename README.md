@@ -1,41 +1,62 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Sarthak+Saini;Computer+Science+Student;Cloud+%7C+DevOps+%7C+Web+Development;Building+things+that+solve+problems;01110011+01100001+01110010+01110100+01101000+01100001+01101011" alt="Typing banner">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=700&lines=Sarthak+Saini;Computer+Science+Student;Cloud+%7C+DevOps+%7C+Web+Development;Building+%26+Learning+Every+Day;01110011+01100001+01110010+01110100+01101000+01100001+01101011" alt="Typing SVG">
 
 <br>
 
 <a href="https://github.com/Sarthak-Saini07">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
-<a href="https://github.com/Sarthak-Saini07/Sarthak-Saini07.github.io">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+&nbsp;
+<a href="https://github.com/Sarthak-Saini07/portfolio">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Sarthak-Saini07&style=flat&color=39d353&label=profile+views" alt="Profile views">
+<img src="https://komarev.com/ghpvc/?username=Sarthak-Saini07&style=flat&color=39d353&label=profile+views" alt="Profile Views">
 
 </div>
 
 ---
 
+<div align="center">
+
 ## `~/` whoami
 
+</div>
+
 ```console
+$ whoami
+sarthak-saini07
+
 $ cat about.txt
 ```
 
-Hi, I'm **Sarthak Saini** — a Computer Science student interested in building software, working with cloud infrastructure, and exploring DevOps and modern development tools.
+Hi, I'm **Sarthak Saini**, a Computer Science student interested in software development, cloud computing and DevOps.
 
-* 🧑‍💻 Currently exploring **Cloud, DevOps, Web Development & AI**
-* ☁️ Working with **AWS & Azure**
-* ⚙️ Learning **Linux, Git, Docker, Puppet & cloud infrastructure**
-* 💻 Building projects with **Python, C, JavaScript, TypeScript & React**
-* 🗄️ Working with databases including **MongoDB**
-* 🚀 Interested in turning ideas into working projects
+I enjoy building projects, experimenting with new technologies and learning how applications move from development to production.
+
+```text
+Focus:
+├── Software Development
+├── Cloud Computing
+├── DevOps & Automation
+├── Web Development
+├── Linux & Networking
+└── AI / Emerging Technologies
+```
+
+- ☁️ Exploring **AWS & Microsoft Azure**
+- ⚙️ Learning **DevOps, Linux, Docker & Puppet**
+- 💻 Building applications using **Python, C, JavaScript & TypeScript**
+- 🌐 Working with **React, Node.js & HTML/CSS**
+- 🗄️ Working with **MongoDB**
+- 🚀 Continuously building and improving projects
 
 ---
 
@@ -43,7 +64,104 @@ Hi, I'm **Sarthak Saini** — a Computer Science student interested in building 
 
 ## `~/` toolbox
 
-<img src="https://skillicons.dev/icons?i=python,c,js,ts,html,css,react,nodejs,mongodb,git,github,linux,docker,aws,azure,vscode&perline=8" alt="Tech Stack">
+### Languages
+
+<a href="https://www.python.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="55" height="55" alt="Python">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://en.cppreference.com/w/c">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="55" height="55" alt="C">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.typescriptlang.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="55" height="55" alt="TypeScript">
+</a>
+
+<br><br>
+
+### Web Development
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://react.dev/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55" height="55" alt="React">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://nodejs.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="55" height="55" alt="Node.js">
+</a>
+
+<br><br>
+
+### Database
+
+<a href="https://www.mongodb.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="55" height="55" alt="MongoDB">
+</a>
+
+<br><br>
+
+### Cloud • DevOps • Systems
+
+<a href="https://aws.amazon.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="70" height="55" alt="AWS">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://azure.microsoft.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="55" height="55" alt="Azure">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.docker.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="55" height="55" alt="Docker">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.linux.org/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="55" height="55" alt="Linux">
+</a>
+
+<br><br>
+
+<a href="https://git-scm.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="55" height="55" alt="Git">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://github.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="55" height="55" alt="GitHub">
+</a>
+&nbsp;&nbsp;
+
+<a href="https://www.puppet.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/puppet/puppet-original.svg" width="55" height="55" alt="Puppet">
+</a>
+
+<br><br>
+
+### Tools
+
+<a href="https://code.visualstudio.com/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code">
+</a>
 
 </div>
 
@@ -51,31 +169,42 @@ Hi, I'm **Sarthak Saini** — a Computer Science student interested in building 
 
 <div align="center">
 
-## `~/` what I work with
-
-| Area        | Technologies                         |
-| ----------- | ------------------------------------ |
-| `languages` | Python · C · JavaScript · TypeScript |
-| `frontend`  | HTML · CSS · React                   |
-| `backend`   | Node.js                              |
-| `database`  | MongoDB                              |
-| `cloud`     | AWS · Azure                          |
-| `devops`    | Linux · Git · Docker · Puppet        |
-| `tools`     | VS Code · GitHub                     |
+## `~/` repository tech stack
 
 </div>
 
----
+The technologies below represent the tools and languages used across my GitHub projects.
+
+```text
+Programming
+├── Python
+├── C
+├── JavaScript
+└── TypeScript
+
+Web
+├── HTML
+├── CSS
+├── React
+└── Node.js
+
+Database
+└── MongoDB
+
+Cloud
+├── AWS
+└── Azure
+
+DevOps / Systems
+├── Linux
+├── Git
+├── Docker
+└── Puppet
+```
 
 <div align="center">
 
-## `~/` contribution calendar
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarthak-Saini07/Sarthak-Saini07/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarthak-Saini07/Sarthak-Saini07/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/Sarthak-Saini07/Sarthak-Saini07/output/snake.svg" width="100%" alt="Contribution snake">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Saini07&layout=compact&langs_count=10&hide_border=true&theme=github_dark" height="180" alt="Top Languages">
 
 </div>
 
@@ -85,31 +214,38 @@ Hi, I'm **Sarthak Saini** — a Computer Science student interested in building 
 
 ## `~/` the numbers
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sarthak-Saini07&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170" alt="GitHub Stats">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-Saini07&theme=github-dark-blue&hide_border=true" height="170" alt="GitHub Streak">
-
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Saini07&layout=compact&hide_border=true&theme=github_dark&langs_count=8" height="170" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=Sarthak-Saini07&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&rank_icon=github" height="180" alt="GitHub Stats">
+
+&nbsp;&nbsp;
+
+<img src="https://streak-stats.demolab.com/?user=Sarthak-Saini07&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streak">
 
 </div>
 
 ---
 
+<div align="center">
+
 ## `~/` selected work
+
+</div>
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🧠 Dynamic Memory Visualizer
 
-Visualizes concepts related to dynamic memory management using Python.
+A project focused on visualizing concepts related to dynamic memory management.
 
 **Stack:** `Python`
 
-<a href="https://github.com/Sarthak-Saini07/Dynamic-Memory-Visualizer">View repository →</a>
+<a href="https://github.com/Sarthak-Saini07/Dynamic-Memory-Visualizer">
+View Repository →
+</a>
 
 </td>
 
@@ -117,25 +253,31 @@ Visualizes concepts related to dynamic memory management using Python.
 
 ### 💱 Currency Converter Bot
 
-A bot that converts currencies using current exchange rates.
+A currency conversion project designed around exchange-rate based conversions.
 
 **Stack:** `HTML`
 
-<a href="https://github.com/Sarthak-Saini07/currency-convertor-bot">View repository →</a>
+<a href="https://github.com/Sarthak-Saini07/currency-convertor-bot">
+View Repository →
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🌐 Portfolio
 
-My personal portfolio website.
+Personal portfolio website showcasing projects, skills and development work.
 
 **Stack:** `HTML`
 
-<a href="https://github.com/Sarthak-Saini07/portfolio">View repository →</a>
+<a href="https://github.com/Sarthak-Saini07/portfolio">
+View Repository →
+</a>
 
 </td>
 
@@ -143,13 +285,16 @@ My personal portfolio website.
 
 ### ⚡ Neo Flux Convert
 
-A conversion-focused web project.
+A conversion-focused web project built with a modern TypeScript stack.
 
 **Stack:** `TypeScript`
 
-<a href="https://github.com/Sarthak-Saini07/neo-flux-convert">View repository →</a>
+<a href="https://github.com/Sarthak-Saini07/neo-flux-convert">
+View Repository →
+</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -159,17 +304,41 @@ A conversion-focused web project.
 
 ## `~/` currently learning
 
+</div>
+
 ```text
-Cloud Infrastructure
-       ↓
-AWS / Azure
-       ↓
-Linux + Networking
-       ↓
-Docker + DevOps
-       ↓
-CI/CD + Automation
+                    ┌───────────────┐
+                    │     CLOUD     │
+                    └───────┬───────┘
+                            │
+                    ┌───────▼───────┐
+                    │   AWS / AZURE │
+                    └───────┬───────┘
+                            │
+                    ┌───────▼───────┐
+                    │ LINUX / NETWORK│
+                    └───────┬───────┘
+                            │
+                    ┌───────▼───────┐
+                    │DOCKER / DEVOPS│
+                    └───────┬───────┘
+                            │
+                    ┌───────▼───────┐
+                    │ AUTOMATION / CI│
+                    └───────────────┘
 ```
+
+---
+
+<div align="center">
+
+## `~/` activity
+
+<br>
+
+<a href="https://github.com/Sarthak-Saini07">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarthak-Saini07&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph">
+</a>
 
 </div>
 
@@ -179,13 +348,23 @@ CI/CD + Automation
 
 ## `~/` connect
 
+<br>
+
 <a href="https://github.com/Sarthak-Saini07">
-<img src="https://img.shields.io/badge/GitHub-Sarthak--Saini07-111111?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-Sarthak--Saini07-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
+&nbsp;
+
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+
+<br><br>
+
+```text
+$ echo "Thanks for visiting my profile!"
+```
 
 </div>
 
@@ -195,14 +374,8 @@ CI/CD + Automation
 
 <sub>
 
-`01110100 01101000 01100001 01101110 01101011 01110011 00100000 01100110 01101111 01110010 00100000 01110011 01100011 01110010 01101111 01101100 01101100 01101001 01101110 01100111`
+01110011 01100001 01110010 01110100 01101000 01100001 01101011
 
 </sub>
 
 </div>
-
-
-<!---
-Sarthak-Saini07/Sarthak-Saini07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
