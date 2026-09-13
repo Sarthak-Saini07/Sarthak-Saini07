@@ -570,8 +570,8 @@ The technologies below represent the tools and frameworks used across my project
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Saini07&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="180" alt="Top Languages">
-
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Saini07&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="180" alt="Top Languages"> -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak-Saini07&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800" height="180" alt="Top Languages">
 </div>
 
 ---
@@ -582,8 +582,8 @@ The technologies below represent the tools and frameworks used across my project
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sarthak-Saini07&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&rank_icon=github" height="180" alt="GitHub Stats">
-
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=Sarthak-Saini07&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&rank_icon=github" height="180" alt="GitHub Stats"> -->
+<img src="https://github-readme-stats.vercel.app/api?username=Sarthak-Saini07&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&cache_seconds=1800" height="180" alt="GitHub Stats">
 &nbsp;&nbsp;
 
 <img src="https://streak-stats.demolab.com/?user=Sarthak-Saini07&theme=github-dark-blue&hide_border=true" height="180" alt="GitHub Streak">
